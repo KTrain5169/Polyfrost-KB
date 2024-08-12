@@ -1,6 +1,18 @@
 # Table of contents
 
 * [Polyfrost knowledgebase](README.md)
+* [License](documentation-license.md)
+
+***
+
+## Issue diagnosis
+
+* [Locating helpful resources](diagnosing_issues/locating_resources.md)
+* [Reading Logs](diagnosing_issues/reading-logs.md)
+* [Fixing Crashes](diagnosing_issues/fixing-crashes.md)
+* [Types of Logs](diagnosing_issues/types-of-logs.md)
+* [Binary search](diagnosing_issues/binary_search.md)
+* [Spark logs](diagnosing_issues/spark.md)
 
 ## OneConfig
 
